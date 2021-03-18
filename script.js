@@ -1,3 +1,3 @@
 function greeting(){
-    document.getElementById("greeting").innerHTML="Hello there!";
+    document.getElementById("greeting").innerHTML="Hello There!";
 }
